@@ -47,18 +47,20 @@ def WriteJson(json_data, path):
         json.dump(json_data, jsonFile, indent=4, sort_keys=True)
 
 def main(args):
-    print("\n")
-    print("Converts a loadresources.cfg file into a fxproject.json file for FxDK")
-    print("Useage: python3 fxproject-writer.py *Optional parameters: <path to loadresources.cfg> <path to fxproject.json>")
-    print("\n")
-    
-    # Set some default path aguments
-    if len(args) < 2:
+    # Handle path arguments
+    if len(args) == 1:
         resources = 'loadresources.cfg'
         fxproject = 'fxproject.json'
+    elif len(args) == 2 or len(args) > 3:
+        print("\n")
+        print("Converts a loadresources.cfg file into a fxproject.json file for FxDK")
+        print("Usage: python3 fxproject-writer.py *Optional parameters: <path to loadresources.cfg> <path to fxproject.json>")
+        print("\n")
+        sys.exit("ERROR: Wrong number of arguments.")
     else:
         resources = args[0]
         fxproject = args[1]
+
     enabled_resources = ReadEnabled(resources)
     data = ReadJson(fxproject)
     new_json, errors, modified = ModifyJson(enabled_resources, data)
@@ -71,4 +73,4 @@ def main(args):
         print(error)
 
 if __name__ == '__main__':
-    main(sys.argv[1:3])
+    main(sys.argv)
