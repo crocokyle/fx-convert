@@ -8,5 +8,5 @@ python3 fxproject-writer.py  # Enables all resources from loadresources.cfg in f
 ```
 or
 ```bash
-python3 fxproject-writer.py <path to loadresources.cfg> <path to fxproject.json>
+python3 fxproject-writer.py <path-to-loadresources.cfg> <path-to-fxproject.json>
 ```
