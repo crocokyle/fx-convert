@@ -1,0 +1,593 @@
+{
+    "createdAt": "2021-04-27T18:38:13.616Z",
+    "name": "SalvationRP",
+    "pathsState": {
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources": true,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-bob74_ipl": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-bob74_ipl\\dlc_doomsday": true,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-carhud": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-cayo_minimap": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-customclothing": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-diamdlcveh": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-dope_island_hopper": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ASSETS]\\rp-handling": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-bank": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-carlift": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-carwash": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-clothingstore": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-dpclothing": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-dpemotes": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-forecast": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-fuel": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-garage": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-gokarts": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-hunting": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-inventory": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-inventory-old": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-lscustoms": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-menu": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-outdoors": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-phone": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-playerneeds": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-radio": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-rental": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Civ]\\rp-vehicle": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-admin": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-core": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-interaction": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-jobs": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-logs": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-redeem": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-stopgundrops": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\rp-voip": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\saltychat": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Core]\\saltyhud": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[Dev]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]\\rp-emergency": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]\\rp-hospital": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]\\rp-locks": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]\\rp-radar2": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]\\rp-sacc": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[EMERGENCY]\\showme": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[gamemodes]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[gamemodes]\\[maps]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[gameplay]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[local]": true,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[managers]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[system]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[system]\\[builders]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[FiveM]\\[test]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ILLEGAL]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ILLEGAL]\\rp-chopshop": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ILLEGAL]\\rp-drugs": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[ILLEGAL]\\rp-storerobbery": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]": true,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-dumpsters": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-fooddelivery": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-gopostal": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-heavytrucking": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-tacos": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-taxi": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-towing": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-trashtruck": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[LEGAL]\\rp-treasure": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[System]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[System]\\connectqueue": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[System]\\mysql-async": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\mythic_progbar": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-externalsounds": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-loadingscreen": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-notify": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-sql": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-teleporters": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-utils": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\rp-vehiclemanager": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[UTILITES]\\tokoboard": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[local]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]\\pNotify": true,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]\\sonoran_livemap": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]\\sonoran_updatehelper": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]\\sonorancad": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]\\tablet": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\resources\\[sonorancad]\\wk_wars2x": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources": true,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources\\[gamemodes]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources\\[gameplay]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources\\[managers]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources\\[system]": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources\\[system]\\sessionmanager-rdr3": false,
+        "C:\\Users\\me\\code\\GTA\\SalvationRP\\system-resources\\resources\\[test]": false
+    },
+    "resources": {
+        "baseevents": {
+            "enabled": true,
+            "name": "baseevents",
+            "restartOnChange": false
+        },
+        "basic-gamemode": {
+            "enabled": true,
+            "name": "basic-gamemode",
+            "restartOnChange": false
+        },
+        "chat": {
+            "enabled": true,
+            "name": "chat",
+            "restartOnChange": false
+        },
+        "connectqueue": {
+            "enabled": true,
+            "name": "connectqueue",
+            "restartOnChange": false
+        },
+        "example-loadscreen": {
+            "enabled": false,
+            "name": "example-loadscreen",
+            "restartOnChange": false
+        },
+        "fivem": {
+            "enabled": true,
+            "name": "fivem",
+            "restartOnChange": false
+        },
+        "fivem-map-skater": {
+            "enabled": true,
+            "name": "fivem-map-skater",
+            "restartOnChange": false
+        },
+        "hardcap": {
+            "enabled": true,
+            "name": "hardcap",
+            "restartOnChange": false
+        },
+        "mapmanager": {
+            "enabled": true,
+            "name": "mapmanager",
+            "restartOnChange": false
+        },
+        "mysql-async": {
+            "enabled": true,
+            "name": "mysql-async",
+            "restartOnChange": false
+        },
+        "mythic_progbar": {
+            "enabled": true,
+            "name": "mythic_progbar",
+            "restartOnChange": false
+        },
+        "pNotify": {
+            "enabled": true,
+            "name": "pNotify",
+            "restartOnChange": false
+        },
+        "playernames": {
+            "enabled": true,
+            "name": "playernames",
+            "restartOnChange": false
+        },
+        "rconlog": {
+            "enabled": true,
+            "name": "rconlog",
+            "restartOnChange": false
+        },
+        "rp-admin": {
+            "enabled": true,
+            "name": "rp-admin",
+            "restartOnChange": false
+        },
+        "rp-bank": {
+            "enabled": true,
+            "name": "rp-bank",
+            "restartOnChange": false
+        },
+        "rp-bob74_ipl": {
+            "enabled": true,
+            "name": "rp-bob74_ipl",
+            "restartOnChange": false
+        },
+        "rp-carhud": {
+            "enabled": true,
+            "name": "rp-carhud",
+            "restartOnChange": false
+        },
+        "rp-carlift": {
+            "enabled": true,
+            "name": "rp-carlift",
+            "restartOnChange": false
+        },
+        "rp-carwash": {
+            "enabled": true,
+            "name": "rp-carwash",
+            "restartOnChange": false
+        },
+        "rp-cayo_minimap": {
+            "enabled": true,
+            "name": "rp-cayo_minimap",
+            "restartOnChange": false
+        },
+        "rp-chopshop": {
+            "enabled": true,
+            "name": "rp-chopshop",
+            "restartOnChange": false
+        },
+        "rp-clothing": {
+            "enabled": true,
+            "name": "rp-clothing",
+            "restartOnChange": false
+        },
+        "rp-clothingstore": {
+            "enabled": true,
+            "name": "rp-clothingstore",
+            "restartOnChange": false
+        },
+        "rp-control": {
+            "enabled": true,
+            "name": "rp-control",
+            "restartOnChange": false
+        },
+        "rp-core": {
+            "enabled": true,
+            "name": "rp-core",
+            "restartOnChange": false
+        },
+        "rp-customclothing": {
+            "enabled": true,
+            "name": "rp-customclothing",
+            "restartOnChange": false
+        },
+        "rp-dope_island_hopper": {
+            "enabled": true,
+            "name": "rp-dope_island_hopper",
+            "restartOnChange": false
+        },
+        "rp-dpclothing": {
+            "enabled": true,
+            "name": "rp-dpclothing",
+            "restartOnChange": false
+        },
+        "rp-dpemotes": {
+            "enabled": true,
+            "name": "rp-dpemotes",
+            "restartOnChange": false
+        },
+        "rp-drugs": {
+            "enabled": true,
+            "name": "rp-drugs",
+            "restartOnChange": false
+        },
+        "rp-dumpsters": {
+            "enabled": true,
+            "name": "rp-dumpsters",
+            "restartOnChange": false
+        },
+        "rp-emergency": {
+            "enabled": true,
+            "name": "rp-emergency",
+            "restartOnChange": false
+        },
+        "rp-externalsounds": {
+            "enabled": true,
+            "name": "rp-externalsounds",
+            "restartOnChange": false
+        },
+        "rp-fooddelivery": {
+            "enabled": true,
+            "name": "rp-fooddelivery",
+            "restartOnChange": false
+        },
+        "rp-forecast": {
+            "enabled": true,
+            "name": "rp-forecast",
+            "restartOnChange": false
+        },
+        "rp-fuel": {
+            "enabled": true,
+            "name": "rp-fuel",
+            "restartOnChange": false
+        },
+        "rp-garage": {
+            "enabled": true,
+            "name": "rp-garage",
+            "restartOnChange": false
+        },
+        "rp-gokarts": {
+            "enabled": true,
+            "name": "rp-gokarts",
+            "restartOnChange": false
+        },
+        "rp-gopostal": {
+            "enabled": true,
+            "name": "rp-gopostal",
+            "restartOnChange": false
+        },
+        "rp-handling": {
+            "enabled": true,
+            "name": "rp-handling",
+            "restartOnChange": false
+        },
+        "rp-heavytrucking": {
+            "enabled": true,
+            "name": "rp-heavytrucking",
+            "restartOnChange": false
+        },
+        "rp-hospital": {
+            "enabled": true,
+            "name": "rp-hospital",
+            "restartOnChange": false
+        },
+        "rp-hunting": {
+            "enabled": true,
+            "name": "rp-hunting",
+            "restartOnChange": false
+        },
+        "rp-imports": {
+            "enabled": true,
+            "name": "rp-imports",
+            "restartOnChange": false
+        },
+        "rp-interaction": {
+            "enabled": true,
+            "name": "rp-interaction",
+            "restartOnChange": false
+        },
+        "rp-interiors": {
+            "enabled": true,
+            "name": "rp-interiors",
+            "restartOnChange": false
+        },
+        "rp-inventory": {
+            "enabled": true,
+            "name": "rp-inventory",
+            "restartOnChange": false
+        },
+        "rp-inventory-old": {
+            "enabled": false,
+            "name": "rp-inventory-old",
+            "restartOnChange": false
+        },
+        "rp-jobs": {
+            "enabled": true,
+            "name": "rp-jobs",
+            "restartOnChange": false
+        },
+        "rp-loadingscreen": {
+            "enabled": true,
+            "name": "rp-loadingscreen",
+            "restartOnChange": false
+        },
+        "rp-locks": {
+            "enabled": true,
+            "name": "rp-locks",
+            "restartOnChange": false
+        },
+        "rp-logs": {
+            "enabled": true,
+            "name": "rp-logs",
+            "restartOnChange": false
+        },
+        "rp-lscustoms": {
+            "enabled": true,
+            "name": "rp-lscustoms",
+            "restartOnChange": false
+        },
+        "rp-menu": {
+            "enabled": true,
+            "name": "rp-menu",
+            "restartOnChange": false
+        },
+        "rp-notify": {
+            "enabled": true,
+            "name": "rp-notify",
+            "restartOnChange": false
+        },
+        "rp-outdoors": {
+            "enabled": true,
+            "name": "rp-outdoors",
+            "restartOnChange": false
+        },
+        "rp-phone": {
+            "enabled": true,
+            "name": "rp-phone",
+            "restartOnChange": false
+        },
+        "rp-playerneeds": {
+            "enabled": true,
+            "name": "rp-playerneeds",
+            "restartOnChange": false
+        },
+        "rp-polyzone": {
+            "enabled": true,
+            "name": "rp-polyzone",
+            "restartOnChange": false
+        },
+        "rp-radar2": {
+            "enabled": true,
+            "name": "rp-radar2",
+            "restartOnChange": false
+        },
+        "rp-radio": {
+            "enabled": true,
+            "name": "rp-radio",
+            "restartOnChange": false
+        },
+        "rp-redeem": {
+            "enabled": true,
+            "name": "rp-redeem",
+            "restartOnChange": false
+        },
+        "rp-rental": {
+            "enabled": true,
+            "name": "rp-rental",
+            "restartOnChange": false
+        },
+        "rp-sacc": {
+            "enabled": true,
+            "name": "rp-sacc",
+            "restartOnChange": false
+        },
+        "rp-scenes": {
+            "enabled": true,
+            "name": "rp-scenes",
+            "restartOnChange": false
+        },
+        "rp-sql": {
+            "enabled": true,
+            "name": "rp-sql",
+            "restartOnChange": false
+        },
+        "rp-stopgundrops": {
+            "enabled": true,
+            "name": "rp-stopgundrops",
+            "restartOnChange": false
+        },
+        "rp-storerobbery": {
+            "enabled": true,
+            "name": "rp-storerobbery",
+            "restartOnChange": false
+        },
+        "rp-tacos": {
+            "enabled": true,
+            "name": "rp-tacos",
+            "restartOnChange": false
+        },
+        "rp-taxi": {
+            "enabled": true,
+            "name": "rp-taxi",
+            "restartOnChange": false
+        },
+        "rp-teleporters": {
+            "enabled": true,
+            "name": "rp-teleporters",
+            "restartOnChange": false
+        },
+        "rp-towing": {
+            "enabled": true,
+            "name": "rp-towing",
+            "restartOnChange": false
+        },
+        "rp-trashtruck": {
+            "enabled": true,
+            "name": "rp-trashtruck",
+            "restartOnChange": false
+        },
+        "rp-treasure": {
+            "enabled": true,
+            "name": "rp-treasure",
+            "restartOnChange": false
+        },
+        "rp-utils": {
+            "enabled": true,
+            "name": "rp-utils",
+            "restartOnChange": false
+        },
+        "rp-vehicle": {
+            "enabled": true,
+            "name": "rp-vehicle",
+            "restartOnChange": false
+        },
+        "rp-vehiclemanager": {
+            "enabled": true,
+            "name": "rp-vehiclemanager",
+            "restartOnChange": false
+        },
+        "rp-voip": {
+            "enabled": true,
+            "name": "rp-voip",
+            "restartOnChange": false
+        },
+        "rp-weaponskins": {
+            "enabled": true,
+            "name": "rp-weaponskins",
+            "restartOnChange": false
+        },
+        "rp-ymaps": {
+            "enabled": true,
+            "name": "rp-ymaps",
+            "restartOnChange": false
+        },
+        "saltychat": {
+            "enabled": true,
+            "name": "saltychat",
+            "restartOnChange": false
+        },
+        "saltyhud": {
+            "enabled": true,
+            "name": "saltyhud",
+            "restartOnChange": false
+        },
+        "screenshot-basic": {
+            "enabled": true,
+            "name": "screenshot-basic",
+            "restartOnChange": false
+        },
+        "sessionmanager": {
+            "enabled": true,
+            "name": "sessionmanager",
+            "restartOnChange": false
+        },
+        "showme": {
+            "enabled": true,
+            "name": "showme",
+            "restartOnChange": false
+        },
+        "sonoran_livemap": {
+            "enabled": true,
+            "name": "sonoran_livemap",
+            "restartOnChange": false
+        },
+        "sonoran_updatehelper": {
+            "enabled": true,
+            "name": "sonoran_updatehelper",
+            "restartOnChange": false
+        },
+        "sonorancad": {
+            "enabled": true,
+            "name": "sonorancad",
+            "restartOnChange": false
+        },
+        "spawnmanager": {
+            "enabled": true,
+            "name": "spawnmanager",
+            "restartOnChange": false
+        },
+        "tablet": {
+            "enabled": true,
+            "name": "tablet",
+            "restartOnChange": false
+        },
+        "tokoboard": {
+            "enabled": true,
+            "name": "tokoboard",
+            "restartOnChange": false
+        },
+        "vMenu": {
+            "enabled": true,
+            "name": "vMenu",
+            "restartOnChange": false
+        },
+        "webpack": {
+            "enabled": true,
+            "name": "webpack",
+            "restartOnChange": false
+        },
+        "wk_wars2x": {
+            "enabled": true,
+            "name": "wk_wars2x",
+            "restartOnChange": false
+        },
+        "yarn": {
+            "enabled": true,
+            "name": "yarn",
+            "restartOnChange": false
+        }
+    },
+    "serverUpdateChannel": "recommended",
+    "updatedAt": "2021-04-27T20:55:56.757Z"
+}
