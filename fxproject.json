@@ -108,22 +108,22 @@
     },
     "resources": {
         "baseevents": {
-            "enabled": true,
+            "enabled": false,
             "name": "baseevents",
             "restartOnChange": false
         },
         "basic-gamemode": {
-            "enabled": true,
+            "enabled": false,
             "name": "basic-gamemode",
             "restartOnChange": false
         },
         "chat": {
-            "enabled": true,
+            "enabled": false,
             "name": "chat",
             "restartOnChange": false
         },
         "connectqueue": {
-            "enabled": true,
+            "enabled": false,
             "name": "connectqueue",
             "restartOnChange": false
         },
@@ -133,217 +133,217 @@
             "restartOnChange": false
         },
         "fivem": {
-            "enabled": true,
+            "enabled": false,
             "name": "fivem",
             "restartOnChange": false
         },
         "fivem-map-skater": {
-            "enabled": true,
+            "enabled": false,
             "name": "fivem-map-skater",
             "restartOnChange": false
         },
         "hardcap": {
-            "enabled": true,
+            "enabled": false,
             "name": "hardcap",
             "restartOnChange": false
         },
         "mapmanager": {
-            "enabled": true,
+            "enabled": false,
             "name": "mapmanager",
             "restartOnChange": false
         },
         "mysql-async": {
-            "enabled": true,
+            "enabled": false,
             "name": "mysql-async",
             "restartOnChange": false
         },
         "mythic_progbar": {
-            "enabled": true,
+            "enabled": false,
             "name": "mythic_progbar",
             "restartOnChange": false
         },
         "pNotify": {
-            "enabled": true,
+            "enabled": false,
             "name": "pNotify",
             "restartOnChange": false
         },
         "playernames": {
-            "enabled": true,
+            "enabled": false,
             "name": "playernames",
             "restartOnChange": false
         },
         "rconlog": {
-            "enabled": true,
+            "enabled": false,
             "name": "rconlog",
             "restartOnChange": false
         },
         "rp-admin": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-admin",
             "restartOnChange": false
         },
         "rp-bank": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-bank",
             "restartOnChange": false
         },
         "rp-bob74_ipl": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-bob74_ipl",
             "restartOnChange": false
         },
         "rp-carhud": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-carhud",
             "restartOnChange": false
         },
         "rp-carlift": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-carlift",
             "restartOnChange": false
         },
         "rp-carwash": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-carwash",
             "restartOnChange": false
         },
         "rp-cayo_minimap": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-cayo_minimap",
             "restartOnChange": false
         },
         "rp-chopshop": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-chopshop",
             "restartOnChange": false
         },
         "rp-clothing": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-clothing",
             "restartOnChange": false
         },
         "rp-clothingstore": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-clothingstore",
             "restartOnChange": false
         },
         "rp-control": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-control",
             "restartOnChange": false
         },
         "rp-core": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-core",
             "restartOnChange": false
         },
         "rp-customclothing": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-customclothing",
             "restartOnChange": false
         },
         "rp-dope_island_hopper": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-dope_island_hopper",
             "restartOnChange": false
         },
         "rp-dpclothing": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-dpclothing",
             "restartOnChange": false
         },
         "rp-dpemotes": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-dpemotes",
             "restartOnChange": false
         },
         "rp-drugs": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-drugs",
             "restartOnChange": false
         },
         "rp-dumpsters": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-dumpsters",
             "restartOnChange": false
         },
         "rp-emergency": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-emergency",
             "restartOnChange": false
         },
         "rp-externalsounds": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-externalsounds",
             "restartOnChange": false
         },
         "rp-fooddelivery": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-fooddelivery",
             "restartOnChange": false
         },
         "rp-forecast": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-forecast",
             "restartOnChange": false
         },
         "rp-fuel": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-fuel",
             "restartOnChange": false
         },
         "rp-garage": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-garage",
             "restartOnChange": false
         },
         "rp-gokarts": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-gokarts",
             "restartOnChange": false
         },
         "rp-gopostal": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-gopostal",
             "restartOnChange": false
         },
         "rp-handling": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-handling",
             "restartOnChange": false
         },
         "rp-heavytrucking": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-heavytrucking",
             "restartOnChange": false
         },
         "rp-hospital": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-hospital",
             "restartOnChange": false
         },
         "rp-hunting": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-hunting",
             "restartOnChange": false
         },
         "rp-imports": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-imports",
             "restartOnChange": false
         },
         "rp-interaction": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-interaction",
             "restartOnChange": false
         },
         "rp-interiors": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-interiors",
             "restartOnChange": false
         },
         "rp-inventory": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-inventory",
             "restartOnChange": false
         },
@@ -353,237 +353,222 @@
             "restartOnChange": false
         },
         "rp-jobs": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-jobs",
             "restartOnChange": false
         },
         "rp-loadingscreen": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-loadingscreen",
             "restartOnChange": false
         },
         "rp-locks": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-locks",
             "restartOnChange": false
         },
         "rp-logs": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-logs",
             "restartOnChange": false
         },
         "rp-lscustoms": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-lscustoms",
             "restartOnChange": false
         },
         "rp-menu": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-menu",
             "restartOnChange": false
         },
         "rp-notify": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-notify",
             "restartOnChange": false
         },
         "rp-outdoors": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-outdoors",
             "restartOnChange": false
         },
         "rp-phone": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-phone",
             "restartOnChange": false
         },
-        "rp-playerneeds": {
-            "enabled": true,
-            "name": "rp-playerneeds",
-            "restartOnChange": false
-        },
         "rp-polyzone": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-polyzone",
             "restartOnChange": false
         },
         "rp-radar2": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-radar2",
             "restartOnChange": false
         },
         "rp-radio": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-radio",
             "restartOnChange": false
         },
         "rp-redeem": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-redeem",
             "restartOnChange": false
         },
-        "rp-rental": {
-            "enabled": true,
-            "name": "rp-rental",
-            "restartOnChange": false
-        },
         "rp-sacc": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-sacc",
             "restartOnChange": false
         },
         "rp-scenes": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-scenes",
             "restartOnChange": false
         },
         "rp-sql": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-sql",
             "restartOnChange": false
         },
         "rp-stopgundrops": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-stopgundrops",
             "restartOnChange": false
         },
         "rp-storerobbery": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-storerobbery",
             "restartOnChange": false
         },
         "rp-tacos": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-tacos",
             "restartOnChange": false
         },
         "rp-taxi": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-taxi",
             "restartOnChange": false
         },
         "rp-teleporters": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-teleporters",
             "restartOnChange": false
         },
         "rp-towing": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-towing",
             "restartOnChange": false
         },
         "rp-trashtruck": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-trashtruck",
             "restartOnChange": false
         },
         "rp-treasure": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-treasure",
             "restartOnChange": false
         },
         "rp-utils": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-utils",
             "restartOnChange": false
         },
         "rp-vehicle": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-vehicle",
             "restartOnChange": false
         },
         "rp-vehiclemanager": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-vehiclemanager",
             "restartOnChange": false
         },
         "rp-voip": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-voip",
             "restartOnChange": false
         },
         "rp-weaponskins": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-weaponskins",
             "restartOnChange": false
         },
         "rp-ymaps": {
-            "enabled": true,
+            "enabled": false,
             "name": "rp-ymaps",
             "restartOnChange": false
         },
-        "saltychat": {
-            "enabled": true,
-            "name": "saltychat",
-            "restartOnChange": false
-        },
         "saltyhud": {
-            "enabled": true,
+            "enabled": false,
             "name": "saltyhud",
             "restartOnChange": false
         },
         "screenshot-basic": {
-            "enabled": true,
+            "enabled": false,
             "name": "screenshot-basic",
             "restartOnChange": false
         },
         "sessionmanager": {
-            "enabled": true,
+            "enabled": false,
             "name": "sessionmanager",
             "restartOnChange": false
         },
         "showme": {
-            "enabled": true,
+            "enabled": false,
             "name": "showme",
             "restartOnChange": false
         },
         "sonoran_livemap": {
-            "enabled": true,
+            "enabled": false,
             "name": "sonoran_livemap",
             "restartOnChange": false
         },
         "sonoran_updatehelper": {
-            "enabled": true,
+            "enabled": false,
             "name": "sonoran_updatehelper",
             "restartOnChange": false
         },
         "sonorancad": {
-            "enabled": true,
+            "enabled": false,
             "name": "sonorancad",
             "restartOnChange": false
         },
         "spawnmanager": {
-            "enabled": true,
+            "enabled": false,
             "name": "spawnmanager",
             "restartOnChange": false
         },
         "tablet": {
-            "enabled": true,
+            "enabled": false,
             "name": "tablet",
             "restartOnChange": false
         },
         "tokoboard": {
-            "enabled": true,
+            "enabled": false,
             "name": "tokoboard",
             "restartOnChange": false
         },
         "vMenu": {
-            "enabled": true,
+            "enabled": false,
             "name": "vMenu",
             "restartOnChange": false
         },
         "webpack": {
-            "enabled": true,
+            "enabled": false,
             "name": "webpack",
             "restartOnChange": false
         },
         "wk_wars2x": {
-            "enabled": true,
+            "enabled": false,
             "name": "wk_wars2x",
             "restartOnChange": false
         },
         "yarn": {
-            "enabled": true,
+            "enabled": false,
             "name": "yarn",
             "restartOnChange": false
         }
