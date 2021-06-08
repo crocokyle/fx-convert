@@ -29,14 +29,14 @@ def ModifyJson(enabled_resources, data):
     modified = []
     for res in enabled_resources:
 
-        if res in data["resources"]:
+        if res in data["assets"]:
             try:
-                if not data["resources"][res]["enabled"]: modified.append(" [x] Enabled: {}".format(res))
-                data["resources"][res]["enabled"] = True
+                if not data["assets"][res]["enabled"]: modified.append(" [x] Enabled: {}".format(res))
+                data["assets"][res]["enabled"] = True
             except:
                 errors.append("Was not able to enable the resource {} manually. Enable it in the FxDK UI instead.".format(res))
         else:
-            data["resources"][res] = {"name": res,"enabled": True,"restartOnChange": False}
+            data["assets"][res] = {"name": res,"enabled": True,"restartOnChange": False}
             modified.append(" [>] Created: {}".format(res))
 
     return data, errors, modified
